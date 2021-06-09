@@ -2,20 +2,6 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/i_am_hexdee?style=social)
 
-A fullstack web developer, specializing in JavaScript technology and blockchqin development.
+A fullstack web developer, specializing in JavaScript technology and Blockchain development.
 
 ---
-
-🧰Toolbox
-
-<img src="https://worldvectorlogo.com/logo/solidity" width="50" height="50">
-<img src="https://worldvectorlogo.com/logo/nodejs-1" width="50" height="50">
-<img src="https://worldvectorlogo.com/logo/git" width="50" height="50">
-<img src="https://worldvectorlogo.com/logo/python-4" width="50" height="50">
-
-
-
-
-
-
-
