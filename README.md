@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Hex Dee!
 
-<!--
-**Hexdee/Hexdee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Twitter Follow](https://img.shields.io/twitter/follow/i_am_hexdee?style=social)
 
-Here are some ideas to get you started:
+A fullstack web developer, specializing in JavaScript technology and blockchqin development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🧰Toolbox
+
+<img src="https://worldvectorlogo.com/logo/solidity" width="50" height="50">
+<img src="https://worldvectorlogo.com/logo/nodejs-1" width="50" height="50">
+<img src="https://worldvectorlogo.com/logo/git" width="50" height="50">
+<img src="https://worldvectorlogo.com/logo/python-4" width="50" height="50">
+
+
+
+
+
+
+
